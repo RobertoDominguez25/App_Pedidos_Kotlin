@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenPrimerParcial26_27</string>
+    <string name="cupon">Cupon PROMO (-10%)</string>
+    <string name="envio">ENVIO:</string>
+    <string name="estandar">Estandar</string>
+    <string name="express">Express</string>
+    <string name="total">TOTAL:</string>
+    <string name="descuentos">DESCUENTOS:</string>
+    <string name="importeTotal">IMPORTE TOTAL:</string>
+    <string name="boton">VACIAR PEDIDO</string>
+    <string name="precio_formato">%1$.2f €</string>
+    <string name="descuento_formato">-%1$.2f €</string>
+
+
+    <string name="codigo_promo">PROMO</string>
+
+
+
+</resources>

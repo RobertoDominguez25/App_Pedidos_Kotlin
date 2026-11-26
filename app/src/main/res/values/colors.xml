@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_boton">#11FFFFFF</color>
+
+    <color name="color_normal">#1B1F27</color>
+
+    <color name="color_descuento">#2E7D32</color>
+</resources>
